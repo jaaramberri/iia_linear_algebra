@@ -1,0 +1,6 @@
+Name,Department,Salary,City
+Alice,HR,50000.0,New York
+Bob,IT,70000.0,San Francisco
+Charlie,IT,,New York
+David,Finance,65000.0,Chicago
+Eve,HR,48000.0,Chicago
